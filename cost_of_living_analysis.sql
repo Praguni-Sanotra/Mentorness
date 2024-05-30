@@ -1,0 +1,1 @@
+SELECT * FROM cost_of_living.cost_of_living_details;
